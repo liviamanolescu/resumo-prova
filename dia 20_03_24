@@ -1,0 +1,21 @@
+Pergunta 1 = O que é programacao de computadores? 
+Pergunta 2 = Por que aprender a programar em Phython? Pensamento computacional, que é uma lógica de pensar o mundo. Vantagens competitivas para saber como o seu diversário pensa.
+Resolver problemas, passo a passo. Usamos o Phyton pois é mais fácil, 
+Pergunta 3 = Por que é importante conhecer computacao para usar o Direito? A computacao permeia a nossa vida, tem negocios que sao apenas ativos pela empresa atraves da internet, impostos, tributos, 
+controle judiciario: 
+Pergunta 4 = O que é um ambiente de desenvolvimento itegrado (IDE) É um programa para fazer programa. IDLE é o IDE do Phyton. 
+Pergunta 5 = O Spyder é um ambiente de desenvolvimento integrado multiplataforma de código aberto para programação científica na linguagem Python.
+Pergunta 6 = Anaconda é uma distribuição das linguagens de programação Python e R para computação científica, que visa simplificar o gerenciamento e implantação de pacotes. 
+A distribuição inclui pacotes de ciência de dados adequados para Windows, Linux e macOS.
+Pergunta 7 = O que é o interpretador? Ele faz o eco dos nossos comandos. Os interpretadores de comandos permitem aos usuários emitirem vários comandos, 
+o que requer ao usuário conhecer tais comandos e seus parâmetros, além da sintaxe da linguagem interpretada.
+Pergunta 8 = O que sao tipos de dados? Com o computador entende que esta na memoria. A informacao de significancia, ou seja: nome ou numeros. Se for numero, o computador prefere ser numero inteiro
+Numero inteiro era o que o computador gostaria. Pois gasta muita memoria para usar o ponto. Exemplo: Nao usamos que a idade de alguem seja 18.3 anos. Mas para outras informacoes usamos, exemplo:
+IBGE idade média das mulheres no Rio (por exemplo)
+Pergunta 9 = Como criar variaveis e atribuir valores a elas? Usando o comando = 
+valores de texto (palavras) precisa de aspas " " e ja os numeros nao precisam de aspas 
+entao ficaria assim no phyton 
+numero = 10 
+nome = "João"
+booleano = True 
+Pergunta 10 = 
